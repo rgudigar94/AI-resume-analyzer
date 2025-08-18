@@ -1,0 +1,158 @@
+{
+  "overallScore": 30,
+  "ATS": {
+    "score": 15,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Align keywords with the job description.",
+        "explanation": "The resume is for a Senior Software Engineer, while the job is for a Senior Sales Specialist. The keywords on the resume like 'React,' 'JavaScript,' 'Node.js,' and 'CI/CD' do not match the job description's focus on 'sales,' 'revenue growth,' 'customer relationships,' and 'CRM.'"
+      },
+      {
+        "type": "improve",
+        "tip": "Update the core skills section.",
+        "explanation": "The resume lists 'Frontend Technologies,' 'Backend Technologies,' and 'Database' as core skills. These should be replaced with skills relevant to sales, such as 'Commercial Acumen,' 'Negotiation,' 'Value Selling,' and 'Customer Relationship Management.'"
+      },
+      {
+        "type": "improve",
+        "tip": "Rephrase technical achievements to highlight sales skills.",
+        "explanation": "The resume's bullet points are focused on technical accomplishments ('improving load times by 60%,' 'Reduced API call redundancy by 40%'). These need to be rephrased to demonstrate skills like 'managing account portfolio,' 'new business development,' and 'leading negotiations.'"
+      }
+    ]
+  },
+  "toneAndStyle": {
+    "score": 20,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Shift the focus from technical to commercial.",
+        "explanation": "The current tone is that of a technical expert. It uses phrases like 'drove architectural decisions' and 'engineers to create a cost-effective bearing proposal.' This needs to be changed to a sales-oriented tone, emphasizing business goals, customer relationships, and revenue growth."
+      },
+      {
+        "type": "improve",
+        "tip": "Tailor the profile summary.",
+        "explanation": "The profile describes a 'Senior Software Engineer with 7+ years of hands-on experience in designing, developing, and maintaining scalable web applications.' This needs to be completely rewritten to reflect the role of a Senior Sales Specialist, highlighting experience in sales, business development, and customer management."
+      },
+      {
+        "type": "improve",
+        "tip": "Use sales-specific language.",
+        "explanation": "Words and phrases like 'profitable revenue growth,' 'customer experience,' 'time and territory management,' and 'hunter mindset' are key to the job description. The resume should be updated to incorporate this vocabulary."
+      }
+    ]
+  },
+  "content": {
+    "score": 10,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Add quantifiable sales achievements.",
+        "explanation": "The resume has strong technical metrics. These should be replaced with sales-focused metrics, such as sales volume growth, revenue generated, new accounts acquired, or negotiation success rates. For example, 'increased sales by X%' or 'managed a portfolio of X customers.'"
+      },
+      {
+        "type": "improve",
+        "tip": "Highlight experience in sales and new business development.",
+        "explanation": "The resume lacks any mention of sales experience, account management, or business development, which are central to the job. All work experience sections should be rewritten to focus on these responsibilities, even if they were secondary to technical roles."
+      },
+      {
+        "type": "improve",
+        "tip": "Include experience with sales tools and CRM.",
+        "explanation": "The job description specifically mentions using 'CRM and SmartPrice' and 'sales tools.' The resume mentions tools like 'JIRA,' 'Git,' and 'Figma,' but lacks any sales-specific software. Any experience with Salesforce, HubSpot, or other CRMs should be added."
+      }
+    ]
+  },
+  "structure": {
+    "score": 20,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Rename and re-prioritize sections.",
+        "explanation": "Sections like 'Core Skills,' 'Frontend Technologies,' and 'Backend Technologies' should be changed to 'Sales Skills,' 'Commercial Acumen,' and 'Technical Product Knowledge.' The resume should also lead with a strong professional summary tailored to sales."
+      },
+      {
+        "type": "improve",
+        "tip": "Reformat bullet points to align with sales responsibilities.",
+        "explanation": "The bullet points should start with action verbs relevant to sales, such as 'Managed,' 'Developed,' 'Led,' and 'Collaborated.' The current bullets are all technical and will not resonate with a sales recruiter."
+      }
+    ]
+  },
+  "skills": {
+    "score": 10,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Replace all technical skills with sales skills.",
+        "explanation": "The resume's skills list is entirely technical. It needs to be replaced with skills listed in the job description: 'Analytical Thinking,' 'Commercial Acumen,' 'Communications,' 'Cross Functional Work,' 'Innovation,' 'Negotiation,' 'Value Selling,' and 'Technical Product Sales.'"
+      },
+      {
+        "type": "improve",
+        "tip": "Add a new section for 'Technical Product Sales' or 'Specialty Chemical Sales'.",
+        "explanation": "The job description highlights a 'Background in specialty chemical sales.' This is a critical qualification that must be explicitly mentioned and supported with experience. The candidate should create a new section or a few bullet points to show this."
+      }
+    ]
+  },
+  "missingthings": {
+    "score": 5,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Address 'Hunter mindset' and 'new business development'.",
+        "explanation": "The job description explicitly asks for a 'Hunter mindset to effectively develop new business.' This is a key qualification that is completely missing from the resume. The candidate needs to provide examples of how they have acquired new clients or expanded market share in previous roles."
+      },
+      {
+        "type": "improve",
+        "tip": "Include 'background in specialty chemical sales'.",
+        "explanation": "This is a mandatory qualification. The resume has no mention of the chemical industry or any related sales experience. Without this, the resume is likely to be immediately rejected."
+      },
+      {
+        "type": "improve",
+        "tip": "Show experience with sales plans and negotiations.",
+        "explanation": "Key responsibilities include 'prepares and implements sales plans' and 'leads and conducts negotiations.' The resume lacks any content related to these activities. The candidate should add examples of how they've planned sales strategies and led negotiations to success."
+      }
+    ]
+  },
+  "strongPoints": {
+    "score": 10,
+    "tips": [
+      {
+        "type": "good",
+        "tip": "The resume uses quantifiable metrics.",
+        "explanation": "The candidate's ability to provide concrete numbers ('60% improvement,' '40% reduction') is a strong point. While the metrics are currently technical, this skill can be applied to a sales context by quantifying sales growth or customer acquisition."
+      },
+      {
+        "type": "good",
+        "tip": "The resume demonstrates a strong work ethic.",
+        "explanation": "The detailed project descriptions show the candidate's dedication and comprehensive involvement in their past roles. This can be re-framed to show commitment to sales targets and business goals."
+      }
+    ]
+  },
+  "weakAreas": {
+    "score": 5,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "Lack of sales experience.",
+        "explanation": "The entire resume is a technical resume for a software engineer. It has no relevant experience in sales, which is the core function of the job."
+      },
+      {
+        "type": "improve",
+        "tip": "Absence of a 'hunter mindset' and business development experience.",
+        "explanation": "The job specifically looks for a 'hunter mindset.' The resume does not show any experience in actively seeking out and developing new business, which is a major red flag."
+      },
+      {
+        "type": "improve",
+        "tip": "No industry-specific experience.",
+        "explanation": "The job requires a background in 'specialty chemical sales.' The resume has no mention of this industry or any related sales experience, making it an unsuitable candidate from the outset."
+      }
+    ]
+  },
+  "rejectionChances": {
+    "score": 95,
+    "tips": [
+      {
+        "type": "improve",
+        "tip": "High chance of immediate rejection.",
+        "explanation": "The resume is completely misaligned with the job description. The skills, experience, and tone are all for a software engineering role, not a sales role. The ATS will likely flag it as irrelevant, and any human reviewer would immediately discard it."
+      }
+    ]
+  }
+}
