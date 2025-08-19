@@ -7,6 +7,7 @@ import {useAxiosCrud} from "~/hooks/useAxios";
 import {API_URL} from "~/constants";
 import {type GenerateContentResponse, GoogleGenAI} from "@google/genai";
 import {AdvancedAIPrompt} from "../../constants";
+import * as process from "node:process";
 
 const Upload = () => {
     const {create, update, data} = useAxiosCrud(API_URL + "/resumesUpload");
@@ -19,7 +20,7 @@ const Upload = () => {
     const handleFileSelect = (file: File | null) => {
         setFile(file);
     }
-    const ai = new GoogleGenAI({apiKey: "AIzaSyClIaen53qDGchFWsy6StqI2qcfxaA03aA"});
+    const ai = new GoogleGenAI({apiKey: process.env.API_KEY});
 
 
     const handleAnalyze = async ({companyName, jobTitle, jobDescription, file}: {
